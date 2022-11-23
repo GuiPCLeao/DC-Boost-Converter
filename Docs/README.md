@@ -1,6 +1,6 @@
 ## Summary
 
-1. `[idea]-3_steps_boost_converter.pdf`: idea of a 3 steps boost converter
+1. `3_steps_boost_converter.pdf`: idea of a 3 steps boost converter
 2. `study_notes.pdf`: study notes.
 
 ____
