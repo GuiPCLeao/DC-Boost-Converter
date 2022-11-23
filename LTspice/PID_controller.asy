@@ -1,0 +1,13 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -112 -40 112 40
+WINDOW 0 0 -40 Bottom 2
+PIN -112 -16 LEFT 8
+PINATTR PinName Feedback
+PINATTR SpiceOrder 1
+PIN -112 16 LEFT 8
+PINATTR PinName Vref
+PINATTR SpiceOrder 2
+PIN 112 0 RIGHT 8
+PINATTR PinName Ctrl
+PINATTR SpiceOrder 3
